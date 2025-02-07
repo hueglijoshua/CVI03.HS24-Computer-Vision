@@ -1,2 +1,4 @@
 # CVI03.HS24-Computer-Vision
-computer vision project 
+Computer vision project - Group 1
+
+Nathalie Alexander // Joshua Hügli
