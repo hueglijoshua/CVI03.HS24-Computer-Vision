@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9acc66a-9038-47d5-8b5d-2a663ab37f75" name="Changes" comment="" />
+    <list default="true" id="f9acc66a-9038-47d5-8b5d-2a663ab37f75" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/segment-anything" beforeDir="false" afterPath="$PROJECT_DIR$/segment-anything" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segment-anything/notebooks/automatic_mask_generator_example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/segment-anything/notebooks/automatic_mask_generator_example.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
